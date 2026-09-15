@@ -12,13 +12,13 @@ Application: ShopEasy E-commerce Website
 Testing Area: Login & Authentication
 Environment: Laptop / Chrome Browser
 
-⸻
+
 
    Testing Objective
 
 The objective was to verify that the ShopEasy login functionality works correctly for valid and invalid user scenarios and provides appropriate validation messages when incorrect or incomplete information is submitted.
 
-⸻
+
 
    Testing Scope
 
@@ -35,7 +35,7 @@ The test suite covers:
 * Login button functionality
 * Forgot password functionality
 
-⸻
+
 
   Test Cases
 
@@ -54,7 +54,7 @@ Forgot Password	Functional validation
 
 The complete test cases and execution results are available in the Excel test suite included in this repository.
 
-⸻
+
 
  Test Execution Results
 
@@ -65,7 +65,7 @@ Pass Rate: 100%
 
 The tests were executed manually and the expected results were compared against the recorded actual results.
 
-⸻
+
 
   Defect / QA Observation
 
@@ -84,7 +84,7 @@ The expected result indicated a generic invalid username/password message, while
 Recommendation:
 Confirm the approved requirement and ensure the validation message accurately identifies the missing password field if a password is mandatory.
 
-⸻
+
 
   Testing Approach
 
@@ -99,9 +99,9 @@ The project used a combination of:
 * Test execution documentation
 * Defect identification
 
-⸻
 
-🛠️ Skills Demonstrated
+
+   Skills Demonstrated
 
 * Manual Software Testing
 * Test Case Design
@@ -114,19 +114,19 @@ The project used a combination of:
 * QA Documentation
 * Expected vs Actual Result Analysis
 
-⸻
 
-📁 Project Files
 
-📄 QA Portfolio
+   Project Files
+
+   QA Portfolio
 
 The PDF provides an overview of the project, testing approach, results and QA findings.
 
-📊 Login Test Suite
+   Login Test Suite
 
 The Excel file contains the detailed test cases, test data, expected results, actual results, status and comments.
 
-⸻
+
 
  Future Improvements
 
@@ -143,7 +143,7 @@ As I continue developing my QA skills, I plan to expand this project with:
 
 ⸻
 
-👨‍💻 About Me
+  About Me
 
 I am building my career in Software Quality Assurance and Testing, with a focus on practical hands-on testing experience.
 
